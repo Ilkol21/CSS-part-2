@@ -1,0 +1,40 @@
+table{
+    border-style: inset;
+    width: 600px;
+    height: 600px;
+    padding: 30px 30px 30px 30px;
+    border-collapse: collapse;
+}
+td{
+    background-color: blue;
+    border:none;
+    padding: 30px 30px 30px;
+}
+.second{
+    background-color: red;;
+}
+tr{
+    border:none;
+}
+#filtr{
+    border-radius: 70px 70px 0px 0px;
+}
+#joker{
+    border-radius: 0px 0px 60px 40px;
+}
+#kon{
+    border-radius: 60px 0px 0px 0px;
+}
+#jil{
+    border-radius: 0px 90px 90px 0px;
+}
+#fil{
+    border-radius: 0px 0px 0px 50px;
+}
+#yuh{
+    border-radius: 0px 90px 90px 0px;
+}
+#yun{
+    border-radius: 50%;
+}
+

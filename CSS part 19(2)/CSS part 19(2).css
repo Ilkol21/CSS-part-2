@@ -1,0 +1,12 @@
+div{
+    width: 400px;
+    height: 300px; 
+    margin-top: 100px;
+    margin-left: 300px; 
+    border: 1px solid black;
+    background-image: url(w3c_home.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 250px 250px;
+    box-shadow: -40px 40px 10px 15px black inset, 40px -40px 10px 15px green inset, -300px -100px 30px  red, 300px 100px 30px blue;
+}

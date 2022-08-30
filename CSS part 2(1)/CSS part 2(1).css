@@ -1,0 +1,13 @@
+.first{
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 14px;
+    color:#F4A460;
+    color: SandyBrown;
+    color: rgb(244, 164, 96);
+    color: hsl(28, 87%, 67%);
+    color:rgba(244, 164, 96, 1);
+}
+body{
+    background-image: url(\pexels-mudassir-ali-2680270.jpg);
+}
